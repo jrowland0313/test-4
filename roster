@@ -1,0 +1,55 @@
+
+   <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>2024 Baseball Roster</title>
+    <style>
+
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>2024 Baseball Roster</h1>
+    </header>
+    <h2>Staff <img src="https://i.pinimg.com/736x/65/59/0a/65590ab0616c647c8eef29f6ea45881f.jpg" height="35" width="35" alt="Logo White"> Players</h2>
+
+    <nav>
+        <ul>
+            <li>Baseball</li>
+            <li>Schedule</li>
+            <li>Roster</li>
+            <li>Stats</li>
+            <li>More Links</li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <div id="Players" class="Advanced">
+            <h4><img src="https://gamecocksonline.com/imgproxy/KMRTA48mAIGVGpfffjSHtqQJH8EgMaAMjBv4Rd5gWFA/fit/564/832/ce/0/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dhbWVjb2Nrc29ubGluZS1jb20vMjAyMi8xMi8zNzk1OTIyMS1icmV3ZXItZHlsYW4uanBn.png" alt="Player" width="50" height="50"> Dylan Brewer - Outfielder</h4>
+            <h4><img src="https://snworksceo.imgix.net/dth/ddb054f3-5c49-43d6-80b8-59507cd94dc9.sized-1000x1000.jpg?w=1000" alt="Player" width="50" height="50"> Tyler Causey - Infielder</h4>
+            <h4><img src="https://www.thestate.com/latest-news/q1end3/picture276909853/alternates/LANDSCAPE_1140/USATSI_20583496.jpg" alt="Player" width="50" height="50"> Parker Noland - Infielder</h4>
+            
+        </div>
+    </div>
+    <html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="statistics" content="Baseball">
+  <meta name="" content="HTML,CSS,XML,JavaScript">
+  <meta name="author" content="Justin Rowland">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+</body>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-07141XWY92"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-07141XWY92');
+</script>
+
+</html>
