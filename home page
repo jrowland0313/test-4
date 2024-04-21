@@ -1,0 +1,55 @@
+
+       <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>South Carolina Gamecocks Baseball Statistics</title>
+</head>
+
+<body>
+    <header>
+        <h1><img src="https://i.pinimg.com/originals/1b/7a/b4/1b7ab40646ca70c1502598e2a5763454.png" alt="Baseball Logo" width="20" height="20">South Carolina Gamecocks Baseball Statistics</h1>
+        <nav>
+            <ul>
+                <li>Baseball</li>
+                <li>Schedule</li>
+                <li>Roster</li>
+                <li>Stats</li>
+                <li>More Links</li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <div id="articles" class="headlines">
+            <header>
+                <h1><img src="https://th.bing.com/th/id/OIP.p6dl9MAX5rF10fSCyn64sAHaFk?rs=1&pid=ImgDetMain" alt="Runner" width="35" height="30">Baseball Ranked in Top 25</h1>
+                <h1><img src="https://www.thestate.com/sports/college/matt-connolly-blog/t9hr0v/picture79168447/alternates/LANDSCAPE_1140/usc53" alt="Pitcher" width="40" height="40">Petry, Messina Named All-Americans</h1>
+                <h1><img src="https://th.bing.com/th/id/OIP.czIGBoBO3gxdv8cbETQVUAHaEK?rs=1&pid=ImgDetMain" alt="Coach" width="40" height="40">How Far Will 2024 Gamecocks Go?</h1>
+            </header>
+        </div>
+
+        <div id="Standings" class="Numbers">
+            <h1>Standings</h1>
+       <h2>SEC</h2>
+       <h3>South Carolina 16-5</h3>
+       <h3>LSU 15-6</h3>
+       <h3>Arkansas 15-7</h3>
+       <h3>Tennessee 14-8</h3>
+       <h3>Alabama 14-9</h3>
+       <h3>Florida 14-8</h3>
+       <h3>Vanderbilt 13-9</h3>
+       
+       <h2>Overall</h2>
+       <h3>South Carolina 25-10</h3>
+       <h3>LSU 24-11</h3>
+       <h3>Arkansas 22-14</h3>
+       <h3>Tennessee 22-15</h3>
+       <h3>Alabama 24-11</h3>
+       <h3>Florida 25-9</h3>
+       <h3>Vanderbilt 25-9</h3>
+        </div>
+    </div>
+</body>
+
+</html>
